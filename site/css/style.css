@@ -18,6 +18,10 @@ nav{
 }
 
 a{
+  font-family: 'Bitter', serif;
+  color: #A9F5C7;
+  background-color: #005D40;
+  text-decoration-line: none;
 }
 
 h1{
